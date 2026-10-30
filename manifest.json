@@ -1,0 +1,9 @@
+{
+  "id": "graph-exclusions",
+  "name": "Graph Exclusions",
+  "version": "1.0.0",
+  "minAppVersion": "1.14.5",
+  "description": "Add an Exclusions section to graph view filters to hide notes by path, tag, or file name, with a toggle for each rule.",
+  "author": "Matteo",
+  "isDesktopOnly": false
+}

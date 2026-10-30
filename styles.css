@@ -1,0 +1,7 @@
+.graph-exclusions { margin-top: 8px; }
+.graph-exclusions-title { font-size: var(--font-ui-smaller); color: var(--text-muted); margin: 6px 0 4px; }
+.graph-exclusions-row { display: flex; align-items: center; gap: 6px; padding: 3px 0; }
+.graph-exclusions-row input[type="text"] { flex: 1; min-width: 0; }
+.graph-exclusions-row .clickable-icon { visibility: hidden; padding: 2px; }
+.graph-exclusions-row:hover .clickable-icon { visibility: visible; }
+.graph-exclusions-add { width: 100%; margin-top: 6px; }
